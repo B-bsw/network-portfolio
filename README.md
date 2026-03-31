@@ -27,7 +27,7 @@ I have successfully completed several Cisco Networking Academy courses to build 
     </tr>
 </table>
 
-<p align="center">
+<p align="start">
   <b>CCNA: Introduction to Networks (ITN)</b> &nbsp; | &nbsp; <b>Cisco Packet Tracer</b>
 </p>
 
@@ -81,6 +81,7 @@ Additional individual work and code implementations from the network class.
 Major networking project encompassing all learned technologies.
 
 - [📂 Project Folder](https://drive.google.com/drive/folders/1JaiOpJeRT33JaBn1Av1e7NAkkaVtYpW-?usp=sharing)
+- [📕 Project Repository](https://github.com/jrKitt/HapticNetwork.git)
 
 ---
 
